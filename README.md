@@ -5,7 +5,7 @@
 
 ***
 
-Hi, my name is Alexis, a young student in web developement. I'm currently studying at IIM (Institut de l'internet et du multimédia).
+### Hi, my name is Alexis, a young student in web developement. I'm currently studying at IIM (Institut de l'internet et du multimédia).
 
 ***
 
@@ -13,7 +13,9 @@ Hi, my name is Alexis, a young student in web developement. I'm currently studyi
 
 <p>&nbsp;</p>
 <p>&nbsp; </p>
-<p>I'm french and, as you can alrendy tell, love anime 👹.</p>
+
+### I'm french and, as you can alrendy tell, love anime 👹.
+
 <p>&nbsp; </p>
 <p>&nbsp;</p>
 
@@ -24,6 +26,8 @@ Hi, my name is Alexis, a young student in web developement. I'm currently studyi
 
 <p>&nbsp;</p>
 <p>&nbsp; </p>
-<p>I also play video games a lot 🎮 and read webcomics, too much webcomics...</p>
+
+### I also play video games a lot 🎮 and read webcomics, too much webcomics...
+
 <p>&nbsp; </p>
 <p>&nbsp;</p>

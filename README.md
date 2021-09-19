@@ -7,8 +7,17 @@
 
 Hi, my name is Alexis, a young student in web developement. I'm currently studying at IIM (Institut de l'internet et du multimédia).
 
-<img width="700" alt="GiF" align="right" src="
+***
 
-I'm french and, as you can alrendy tell, love anime 👹.
+<img width="300" alt="GiF" align="right" src="https://user-images.githubusercontent.com/90574632/133931972-5f33f45f-f9de-465f-9657-37d26945fe16.gif">
+
+<p>&nbsp;</p>
+<p>&nbsp; </p>
+<p>I'm french and, as you can alrendy tell, love anime 👹.</p>
+<p>&nbsp; </p>
+<p>&nbsp;</p>
+
+
+***
 
 I also play video games a lot 🎮 and read webcomics, too much webcomics...

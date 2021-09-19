@@ -20,4 +20,10 @@ Hi, my name is Alexis, a young student in web developement. I'm currently studyi
 
 ***
 
-I also play video games a lot 🎮 and read webcomics, too much webcomics...
+<img height="200" align="left" src="https://user-images.githubusercontent.com/90574632/133932468-18eba963-2407-4812-b501-9cb2c0aac7f8.png">
+
+<p>&nbsp;</p>
+<p>&nbsp; </p>
+<p>I also play video games a lot 🎮 and read webcomics, too much webcomics...</p>
+<p>&nbsp; </p>
+<p>&nbsp;</p>

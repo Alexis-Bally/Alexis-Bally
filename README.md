@@ -5,7 +5,7 @@
 
 ***
 
-### Hi, my name is Alexis, a young student in web developement. I'm currently studying at IIM (Institut de l'internet et du multimédia).
+### My name is Alexis, a young student in web developement. I'm currently studying at IIM (Institut de l'internet et du multimédia).
 
 ***
 
